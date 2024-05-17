@@ -1,0 +1,40 @@
+.input{
+    border: solid 1px; 
+    padding: 12px ;
+    margin: auto;
+    border-radius: 12px;
+    margin-left: -13px;
+    width: 60%;
+
+}
+#form{
+    border: solid 1px;
+    border-radius: 15px;
+    padding :16px;
+    background-color: rgb(247,233,248);
+    margin: 0 auto;
+    width: 40%;
+    text-align: center;
+    margin-top: 10%;
+}
+#button{
+    border: solid 1px; 
+    border-radius: 12px;
+    padding: 12px;
+    margin: 0 auto;
+    width: 40%;
+    background-color: palevioletred;
+    color: white
+    
+}
+#login-link{
+    
+text-decoration: none;
+color: palevioletred;
+}
+body{
+    background-image:url(Images/wallpaper2.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%; 
+}
